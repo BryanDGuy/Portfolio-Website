@@ -1,0 +1,29 @@
+.projectsSection {
+    margin-top: -3rem;
+    width: 90vw;
+    background-color: white;
+    border-radius: 12px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.header {
+    color: #282c34;
+}
+
+.GithubProjects {
+    width: 30vw;
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+    background-color: #282c34;
+    border-radius: 12px;
+    padding: 50px;
+    margin: 20px;
+    display: inline-block;
+    opacity: 0.6;  
+}
+
+.GithubProjects:hover {
+    opacity: 1.0;
+}
