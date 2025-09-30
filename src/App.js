@@ -76,7 +76,7 @@ function App() {
         <div className="hero-container">
           <div className="hero-content">
             <h1 className="hero-title">
-              Hi, I'm <span className="highlight">Bryan Dougherty</span>
+              Hi, I'm <span className="highlight">Bryan</span>
             </h1>
             <h2 className="hero-subtitle">Engineering & Technology Leader</h2>
             <p className="hero-description">

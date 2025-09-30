@@ -9,9 +9,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-markdown": "^8.0.7",
-    "react-scripts": "5.0.1",
-    "typescript": "^4.9.5",
-    "sass": "^1.57.1"
+    "react-scripts": "^5.0.1",
+    "sass": "^1.57.1",
+    "typescript": "^4.9.5"
   },
   "homepage": "https://bryandguy.github.io/Portfolio-Website/",
   "scripts": {
