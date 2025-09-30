@@ -1,6 +1,6 @@
-# Bryan Dougherty - Portfolio Website
+# Bryan Dougherty Website
 
-A modern, dark-themed portfolio website showcasing my expertise as an Engineering & Technology Leader. Features responsive design, smooth animations, and highlights my backend systems expertise, technical projects, and leadership experience.
+A modern, dark-themed website showcasing my expertise as an Engineering & Technology Leader. Features responsive design, smooth animations, and highlights my backend systems expertise, technical projects, and leadership experience.
 
 ## Features
 
@@ -20,4 +20,4 @@ A modern, dark-themed portfolio website showcasing my expertise as an Engineerin
 
 ## Deployment
 
-The site is deployed to GitHub Pages and can be accessed at: [https://BryanDGuy.github.io/Portfolio-Website/](https://BryanDGuy.github.io/Portfolio-Website/)
+The site is deployed to GitHub Pages and can be accessed at: [https://bryandguy.github.io](https://bryandguy.github.io)

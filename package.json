@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-ui",
+  "name": "bryandguy.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +13,7 @@
     "sass": "^1.57.1",
     "typescript": "^4.9.5"
   },
-  "homepage": "https://bryandguy.github.io/Portfolio-Website/",
+  "homepage": "https://bryandguy.github.io/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
