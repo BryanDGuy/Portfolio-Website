@@ -92,6 +92,7 @@
   color: white;
   position: relative;
   overflow: hidden;
+  padding-top: 70px; /* Account for fixed navbar */
 }
 
 .hero::before {
@@ -537,6 +538,7 @@
     grid-template-columns: 1fr;
     text-align: center;
     gap: 2rem;
+    padding-top: 1rem; /* Additional spacing on mobile */
   }
   
   .hero-title {
@@ -580,6 +582,14 @@
 }
 
 @media (max-width: 480px) {
+  .hero {
+    padding-top: 80px; /* Extra padding for very small screens */
+  }
+  
+  .hero-container {
+    padding-top: 1.5rem; /* More spacing on very small screens */
+  }
+  
   .hero-title {
     font-size: 2rem;
   }
